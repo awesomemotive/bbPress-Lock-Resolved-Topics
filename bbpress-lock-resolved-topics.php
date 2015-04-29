@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: bbPress Lock Resolved Topics
-Plugin URI: http://wordpress.org/plugins/
+Plugin URI: https://github.com/easydigitaldownloads/bbPress-Lock-Resolved-Topics
 Description: Disables the ability for non-topic authors to reply to a forum thread once it's resolved
 Author: Chris Christoff
 Version: 0.9
